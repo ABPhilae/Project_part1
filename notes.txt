@@ -1,0 +1,1 @@
+- est ce que je peux réutiliser les fichiers ou certains que vous avons crees dans tous les projets ? llm_service, .env, .gitiginore parce que tu ne m'as pas demande de les utiliser dans les projets suivants

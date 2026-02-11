@@ -6,7 +6,7 @@ If we ever switch to Anthropic or another provider,
 we only need to change THIS file.
 """
 from openai import OpenAI, APIError, RateLimitError
-from config import settings
+from .config import settings
 import logging
 import time
 

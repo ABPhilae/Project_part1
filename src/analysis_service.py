@@ -1,6 +1,6 @@
 import json
-from src.llm_service import llm_service
-from src.models import SummaryResponse, SentimentResponse, SentimentLabel
+from .llm_service import llm_service
+from .models import SummaryResponse, SentimentResponse, SentimentLabel
 import logging
 
 logger = logging.getLogger(__name__)
